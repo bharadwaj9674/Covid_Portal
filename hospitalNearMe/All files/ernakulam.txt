@@ -1,0 +1,9 @@
+MCS Hospital,048528 36820,Muvattupuzha Ernakulam Kerala-686661,Yes
+Sarada Hospital,0484 2492581,Vypin Nayarambalam Ernakulam-682509,Yes
+Apollo Adlux Hospital,0484 2735000,Cable Junction National Highway 47 Karukutty Ernakulam-680308,Yes
+Devi Hospital,0484 4151515,North Fort Gate N.S.S CollegeTripunithura Ernakulam-682301,No
+W&C Hospital,0477 2253453,Mattancherry Ernakulam Kerala-682002,No
+Nair's Hospital,0484 2302666,Kannadikkadu NH 66 Maradu Ernakulam-682304,Yes
+Arogyalayam Hospital,0484 2625252,Bridge Road Near Byepass Aluva Ernakulam-683101,No
+Samwarthika Ayurveda Hospital,094463 65601,Pallikkavu Road Arakuzha Road Muvattupuzha Ernakulam-686661,No
+Lisie Hospital,0484 2401006,Lisie Hospital Road Kathrikadavu Kochi,Yes

@@ -1,0 +1,9 @@
+Malik Deenar Hospital,049942 30112, Thalangara Kasaragod,Yes
+E K Nayanar Memorial CO-Operative Hospital,08078418961,Kasaragod Chengala NH 17 Kasargod,Yes
+Government Hospital Kasargod, 0471 2301181,Mg Road Head Post Office Kasaragod,No
+Chaithra Medical Center,04994-256968,Chengala Road Vidya Nagar Bus Stop vidya Naga ,Yes
+Krishna Hospital, 04994-256719,40 / 940 Chittoor Road,Yes
+Kamath Medical Center,04994-230004,Dawrka Nagar 671121,No
+Kollampare Hospital,5206264111,Mulleria Badiadka Road Mulleria ( P. O ) 671543,Yes
+KIMS Sunrise Hospital,049942 19400,Mg Road Ashwini Nagar Kasaragod,No
+Uma Hospital, 04994-219200,Adkathbail Kasaragod,Yes

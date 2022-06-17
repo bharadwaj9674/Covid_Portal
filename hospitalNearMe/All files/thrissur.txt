@@ -1,0 +1,11 @@
+Ansar Hospital ,8075420478,Ansar Nagar Perumpilavu,Yes
+St. Antonys Mission Hospital Pazhuvil,9188853597,Pazhuvil Thrissur,No
+Mother Hospital Pvt Ltd ,9744678870,Olari Thrissur,Yes
+Unity Hospital Pvt Limited,9445385225,Kanippayyur Kunnamkulam,No
+St. Josephs Hospital,9207584191,Choondal Thrissur,Yes
+Dhanya Mission Hospital,9539357864,Potta Chalakudy,No
+Medicare Hospital,7902863433,T.K.Puram Kodungallur,Yes
+Royal Hospital,9447151741,Guruvayoor Road Nehru Nagar Kunnamkulam,No
+Malankara Medical Mission Hospital,9846037377,Aduppootty Hills Kunnamkulam,Yes
+Chandramathy Amma Memorial Hospital,9895315303,Olarikkara Pullazhi,No
+Atreya Hospital,9387493222,East Fort Thrissur,Yes

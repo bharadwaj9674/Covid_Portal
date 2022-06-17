@@ -1,0 +1,10 @@
+Dhanalakshmi Hospital,08078418961,Kannomthumchal Road Kannur Kerala - 670002,no
+Aster MIMS Hospital,0497 6641000,Chala East Kannur Kerala - 670621,yes
+Koyili Hospital,0497 2714400,Talap P.O. Pallikkunnu Kannur Kerala - 670004,yes
+Gimcare Hospital,063609 24859,Chala Bypass Nadal Kannur Kerala-670007,yes
+Anaamaya Hospital,049852 15500,35-361/1 Annur Road Payyanur Kannur-670307,no
+Madhavarao Scindia Hospital,0497 2703500,Pamban Madhavan Road P.O.Talap Kannur-670002,yes
+Pariyaram Medical College Hospital,,Pariyaram Medical College P.O Kannur Kerala - 670503,yes
+Ashirvad Hospital,0497 2808080,Civil Station Thavakkara Road Kannur HO Kannur-670001,no
+Ashoka Hospital,0497 2703651,Kannur Taluk Office South Bazar Road Kannur-670002,no
+Sreechand Speciality Hospital,0497 2715550,N Park Road Payyambalam Kannur Kerala - 670001,yes

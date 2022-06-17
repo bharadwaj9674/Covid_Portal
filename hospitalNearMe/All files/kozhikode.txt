@@ -1,0 +1,9 @@
+Aster MIMS,4952488000,Mini Bypass RdGovindapuram Kozhikode,Yes
+Baby Memorial Hospital,5443534,Indira Gandhi Road Kozhikode,No
+GOVERNMENT GENERAL HOSPITAL KOZHIKODE,4952365917,Red cross Road Calicut Beach,Yes
+Government Medical College,4952350216,17 Medical College Road Medical College Junction,No
+IQRAA Hospital,4952379100,Wayanad Road Malaparamba,Yes
+Meitra Hospital,4957123456,Building No. 38/2208-B Karaparamba – Kunduparamba Mini Bypass Road,Yes
+Nirmala Hospital, 4952730211,Wayanad Road Marikunnu Vellimadukunnu,No
+Starcare Hospital,4952489000,N H Bypass Junction NearThondayad, Yes
+PVS Hospital,0495 3011333,Railway Station Road Kozhikode-673002 ,No
